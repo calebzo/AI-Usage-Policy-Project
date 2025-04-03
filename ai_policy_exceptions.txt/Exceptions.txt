@@ -1,0 +1,15 @@
+Exceptions to AI Usage Policy
+
+1. Research and Development Projects:
+   - AI models developed for internal research purposes may be exempt from certain security protocols, but must adhere to basic ethical guidelines.
+
+2. Third-Party AI Tools:
+   - AI tools from third-party vendors must undergo an approval process and be regularly assessed for compliance with security standards.
+
+3. Emergency Situations:
+   - In case of an emergency, AI systems may be deployed in a manner that temporarily bypasses standard security measures, provided it does not compromise the overall integrity of the organization.
+   
+4. Non-Production AI Models:
+   - AI models in development or non-production environments may be subject to less strict access control but must still meet basic ethical and security guidelines.
+
+
